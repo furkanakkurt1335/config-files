@@ -1,0 +1,10 @@
+[
+    "subselect.py",
+    "autosub.lua",
+    "keep-session.lua",
+    "speed-transition-Audio.lua",
+    "speed-transition.lua",
+    "sub-cut.lua",
+    "sub-search.lua",
+    "subselect.lua"
+]
